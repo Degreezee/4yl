@@ -1,0 +1,15 @@
+/home/degreeze/Projects/4yl/LabWorks/dotnet/hw/bin/Debug/net10.0/hw
+/home/degreeze/Projects/4yl/LabWorks/dotnet/hw/bin/Debug/net10.0/hw.deps.json
+/home/degreeze/Projects/4yl/LabWorks/dotnet/hw/bin/Debug/net10.0/hw.runtimeconfig.json
+/home/degreeze/Projects/4yl/LabWorks/dotnet/hw/bin/Debug/net10.0/hw.dll
+/home/degreeze/Projects/4yl/LabWorks/dotnet/hw/bin/Debug/net10.0/hw.pdb
+/home/degreeze/Projects/4yl/LabWorks/dotnet/hw/obj/Debug/net10.0/hw.GeneratedMSBuildEditorConfig.editorconfig
+/home/degreeze/Projects/4yl/LabWorks/dotnet/hw/obj/Debug/net10.0/hw.AssemblyInfoInputs.cache
+/home/degreeze/Projects/4yl/LabWorks/dotnet/hw/obj/Debug/net10.0/hw.AssemblyInfo.cs
+/home/degreeze/Projects/4yl/LabWorks/dotnet/hw/obj/Debug/net10.0/hw.csproj.CoreCompileInputs.cache
+/home/degreeze/Projects/4yl/LabWorks/dotnet/hw/obj/Debug/net10.0/hw.sourcelink.json
+/home/degreeze/Projects/4yl/LabWorks/dotnet/hw/obj/Debug/net10.0/hw.dll
+/home/degreeze/Projects/4yl/LabWorks/dotnet/hw/obj/Debug/net10.0/refint/hw.dll
+/home/degreeze/Projects/4yl/LabWorks/dotnet/hw/obj/Debug/net10.0/hw.pdb
+/home/degreeze/Projects/4yl/LabWorks/dotnet/hw/obj/Debug/net10.0/hw.genruntimeconfig.cache
+/home/degreeze/Projects/4yl/LabWorks/dotnet/hw/obj/Debug/net10.0/ref/hw.dll
